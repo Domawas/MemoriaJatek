@@ -1,0 +1,23 @@
+export const kartyaLista = [
+    { fajlnev: 'kepek/kep1.jpg' },
+    { fajlnev: 'kepek/kep2.jpg' },
+    { fajlnev: 'kepek/kep3.jpg' },
+    { fajlnev: 'kepek/kep4.jpg' },
+    { fajlnev: 'kepek/kep5.jpg' },
+    { fajlnev: 'kepek/kep6.jpg' },
+    { fajlnev: 'kepek/kep7.jpg' },
+    { fajlnev: 'kepek/kep8.jpg' },
+    { fajlnev: 'kepek/kep9.jpg' },
+    { fajlnev: 'kepek/kep10.jpg' },
+    { fajlnev: 'kepek/kep11.jpg' },
+    { fajlnev: 'kepek/kep12.jpg' },
+    { fajlnev: 'kepek/kep13.jpg' },
+    { fajlnev: 'kepek/kep14.jpg' },
+    { fajlnev: 'kepek/kep15.jpg' },
+    { fajlnev: 'kepek/kep16.jpg' },
+    { fajlnev: 'kepek/kep17.jpg' },
+    { fajlnev: 'kepek/kep18.jpg' },
+    { fajlnev: 'kepek/kep19.jpg' },
+    { fajlnev: 'kepek/kep20.jpg' },
+  ];
+  
