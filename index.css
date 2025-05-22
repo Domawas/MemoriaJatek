@@ -1,0 +1,17 @@
+body{
+    background-color: #b3b3b3;
+}
+
+.jatekter{
+    display: grid;
+    grid-template-columns: repeat(4, 100px);
+    gap: 15px;
+    justify-content: center;
+    padding: 20px;
+}
+.kartya img{
+    width: 100%;
+    
+    
+
+}
